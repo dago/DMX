@@ -10,6 +10,10 @@ Verbesserungsvorschläge:
   die Value-Tasten neben dem Display zur Änderung des Wertes.
 * Mappen das Joysticks ermöglichen. Der Joystick reagiert auf Druck wie ein Taster. Es wäre schön, wen der genau wie die Flash-
   Tasten gemappt werden könnte
+* Chases parallel laufen lassen. Wenn der ein Chase-Knopf 3 Sekunden gedrückt wird dann läuft der Chase parallel zu
+  den anderen. Dies ist nützlich, wenn man Chases modular gestaltet und dann überlagern möchte (ähnlich wie es bereits
+  mit Scenes + Chases in Kombination möglich ist)
 
 Fragen:
 * Wozu ist der Modus, das wenn man auf PAN oder TILT drückt, die Leuchtdioden darüber blinken?
+  -> Sperren einer Richtung
