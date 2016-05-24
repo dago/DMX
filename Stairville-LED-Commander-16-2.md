@@ -14,6 +14,10 @@ Verbesserungsvorschläge:
   den anderen. Dies ist nützlich, wenn man Chases modular gestaltet und dann überlagern möchte (ähnlich wie es bereits
   mit Scenes + Chases in Kombination möglich ist)
 
+Fehler im Handbuch:
+* "Einstellungen Speicher" speichert nicht die Einstellung des Fixture-Kanals, sondern alle Einstellungen unter dem
+  Namen des Fixture-Kanals
+
 Fragen:
 * Wozu ist der Modus, das wenn man auf PAN oder TILT drückt, die Leuchtdioden darüber blinken?
   -> Sperren einer Richtung
