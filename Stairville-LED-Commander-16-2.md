@@ -75,3 +75,10 @@ Kanälen linear durch den Dimmer-Fader reduzieren. Dies ist etwa für die Kanäl
 dann durch Absenken der Komponentenhelligkeiten ein Dimmereffekt erzeugt wird.
 Der Master-Mode wird einmal für den gesamten Fixture aktiviert und dann nochmal pro Kanal.
 
+Testdateien:
+* FILE1.PRO Werkseinstellung
+* FILE2.PRO Alles unassigned
+* FILE3.PRO DMX1 -> Fixture 1 -> Function-Fader
+* FILE4.PRO DMX1 -> Fixture 1 -> Function-Fader + Master für Fixture
+* FILE5.PRO DMX1 -> Fixture 1 -> Function-Fader + Master für Fixture und Function-Fader
+* FILE6.PRO wie FILE5.PRO + SCENE 1 mit FUNCTION FIXTURE1 = 255
