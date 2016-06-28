@@ -4,7 +4,7 @@ Verbesserungsvorschläge:
 * Ausschließen von Kanälen bei "Full On". Dies ist wichtig, da sonst z.B. bei gemappetem Strobe die Scheinwerfer Blitzen
   statt gleichmäßig zu leuchten.
   Idee: Während des "Patch/Clear" Modus auf einem Kanal 3 Sekunden drücken von "Full On" nimmt den Kanal rein bzw. raus
-  bei "Full On", Anzeige durch "F" neben dem Kanal
+  bei "Full On", Anzeige durch "F" neben dem Kanal (also analog zum Master-Mode)
 * Werte setzen für AUX1 und AUX2. Zurzeit gibt es bei AUX1 und AUX2 nur die Werte 0 und 255. Der Wert bei eingeschaltetem
   AUX sollte sich setzen lassen um z.B. den Ausstoß der Nebelmaschine zu kontrollieren. Bedienung im Patch-Modus über
   die Value-Tasten neben dem Display zur Änderung des Wertes.
