@@ -82,6 +82,19 @@ Testdateien:
 * FILE4.PRO DMX1 -> Fixture 1 -> Function-Fader + Master für Fixture
 * FILE5.PRO DMX1 -> Fixture 1 -> Function-Fader + Master für Fixture und Function-Fader
 * FILE6.PRO wie FILE5.PRO + SCENE 1 mit FUNCTION FIXTURE1 = 255
+* FILE7.PRO Werkseinstellung, 1-20 gewiped
+ * DMX1 -> Fixture 1 -> Fader 8 (Dimmer)
+ * DMX2 -> Fixture 1 -> Fader 7 (Strobe)
+ * DMX3 -> Fixture 1 -> Fader 2 (Red)
+ * DMX4 -> Fixture 1 -> Fader 3 (Green)
+ * DMX5 -> Fixture 1 -> Fader 4 (Blue)
+ * DMX6 -> Fixture 1 -> Fader 1 (Function)
+ * DMX11 -> Fixture 2 -> Fader 8 (Dimmer)
+ * DMX12 -> Fixture 2 -> Fader 7 (Strobe)
+ * DMX13 -> Fixture 2 -> Fader 2 (Red)
+ * DMX14 -> Fixture 2 -> Fader 3 (Green)
+ * DMX15 -> Fixture 2 -> Fader 4 (Blue)
+ * DMX16 -> Fixture 2 -> Fader 1 (Function)
 
 ```
 diff FILE1.PRO.od FILE2.PRO.od|less
