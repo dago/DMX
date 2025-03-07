@@ -11,6 +11,12 @@ DMX
 |        | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0  | Sound-to-light Slave      |
 |        | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 1 | 0 | 0  | SD Single File Play       |
 |        | a | a | a | a | a | a | a | a | a | 1  | DMX Mode                  |
+|        | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0  | Computersteuerung DHCP    |
+|        | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0  | Computersteuerung 192.168.0.50    |
+|        | 1 | 1 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 0  | Computersteuerung 192.168.0.65    |
+|        | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0  | Computersteuerung 192.168.1.x    |
+|        | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0  | Computersteuerung 192.168.2.x    |
+|        | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 0  | Computersteuerung 192.168.254.x    |
 |        | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0  | ILDA Streaming Sender 192.168.2.70 |
 |        | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0  | ILDA Streaming Sender 192.168.2.71 |
 |        | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0  | ILDA Streaming Sender 192.168.2.72 |
